@@ -1,10 +1,9 @@
-// Typing animation
 const typed = new Typed(".typing", {
   strings: [
     "Java Backend Developer",
     "Spring Boot Specialist",
     "Microservices Architect",
-    "Docker & Kafka Enthusiast"
+    "Kafka & IBM MQ Enthusiast",
   ],
   typeSpeed: 80,
   backSpeed: 50,
